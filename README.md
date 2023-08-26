@@ -4,7 +4,7 @@ Create a simple calculator using java (Android Studio)
 
 ## 📋 Documentation
 
-[Documentation](https://github.com/Mo-Ditha/C-Program/tree/main/Exercise)
+[Documentation](https://github.com/Mo-Ditha/Calculator.git)
 
 ## ✍ Author
 
